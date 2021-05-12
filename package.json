@@ -29,7 +29,7 @@
     "@ionic/angular": "^4.7.1",
     "core-js": "^2.5.4",
     "ionic-tooltips": "^3.1.0",
-    "nodemailer": "^6.4.2",
+    "nodemailer": "^6.4.16",
     "rxjs": "~6.5.1",
     "strapi-provider-email-sendgrid": "^3.0.0-beta.18.7",
     "tslib": "^1.9.0",
